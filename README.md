@@ -1,5 +1,5 @@
 # European Option Pricing and Numerical Methods
-#### Video Demo: https://youtu.be/pB8eA7w0fWQ
+#### Video Demo: https://youtu.be/FnCsjhmUFVg
 ## Description
 
 This project is a European option pricing tool that compares three different approaches to option valuation:
